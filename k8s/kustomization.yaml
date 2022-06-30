@@ -1,0 +1,4 @@
+secretGenerator:
+- name: password
+  envs:
+  - .env.secret

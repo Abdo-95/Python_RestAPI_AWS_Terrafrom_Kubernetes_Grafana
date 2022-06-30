@@ -1,0 +1,9 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+       "Name": "564409215904.dkr.ecr.eu-central-1.amazonaws.com/cloudbootcamp_abdulrahman_arnous_containerregistry:latest"
+    },
+    "Ports": [
+       {"ContainerPort": "8080"}
+    ]
+ }
